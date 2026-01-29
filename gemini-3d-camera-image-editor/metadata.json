@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 3D Camera Image Editor",
+  "description": "An AI-powered image editing tool that allows users to upload a photo and regenerate it from different 3D camera angles using Gemini's latest image generation models.",
+  "requestFramePermissions": []
+}
