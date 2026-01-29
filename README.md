@@ -51,7 +51,8 @@ Gemini 3D Camera Image Editor 是一款创新的AI图像编辑工具，利用Goo
 - **TypeScript配置：** 类型检查和编译
 
 ## 用户界面设计
-![Uploading 20260130-004204.jpeg…]()
+![20260130-004204 2](https://github.com/user-attachments/assets/1af79477-ee4a-46a4-802c-2e6a99b84b54)
+
 
 ### 主要区域
 1. **参考素材库：** 图像上传和管理区域
