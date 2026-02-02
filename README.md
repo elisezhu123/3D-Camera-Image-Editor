@@ -10,7 +10,7 @@
 
 ## 项目简介
 
-Gemini 3D Camera Image Editor 是一款创新的AI图像编辑工具，利用Google Gemini的先进AI技术，结合3D可视化技术，允许用户通过调整相机参数来生成具有不同视角和角度的图像。该工具特别适用于需要多角度图像生成、3D视觉效果设计和创意图像处理的场景。
+Gemini 3D Camera Image Editor 是一款创新的AI图像编辑工具，利用Google Gemini的先进AI技术，结合3D可视化技术，允许用户通过调整相机参数来生成具有不同视角和角度的图像。该工具特别适用于需要多角度图像生成、3D视觉效果设计和创意图像处理的场景。更新支持制定武器和背景以及使用第三方API
 
 ## 核心功能
 
@@ -51,11 +51,8 @@ Gemini 3D Camera Image Editor 是一款创新的AI图像编辑工具，利用Goo
 - **TypeScript配置：** 类型检查和编译
 
 ## 用户界面设计
-![20260130-004204 2](https://github.com/user-attachments/assets/1af79477-ee4a-46a4-802c-2e6a99b84b54)
+<img width="1031" height="926" alt="Screenshot 2026-02-02 at 5 10 11 PM" src="https://github.com/user-attachments/assets/3f57ca6b-8033-4e14-bddd-6e4c895a5dfd" />
 
-更新：支持背景转动，加入动作控制【目前还在思考，如何正确的实现不同的战斗姿势】
-
-<img width="1155" height="742" alt="Screenshot 2026-01-31 at 11 18 48 PM" src="https://github.com/user-attachments/assets/a94dd3cc-ca49-47da-8eec-76aff70c7b1c" />
 
 ### 主要区域
 1. **参考素材库：** 图像上传和管理区域
